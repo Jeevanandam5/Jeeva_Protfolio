@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* subtle entrance / fade (you can also use Tailwind animate-* if configured) */
+@keyframes fadeUp {
+  0% { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.fade-up {
+  animation: fadeUp 450ms ease-out both;
+}
+
+/* if you want a styled blinking cursor instead of the block used above */
+/* .type-cursor {
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  background: #111827;
+  margin-left: 6px;
+  animation: blink 1s steps(2, start) infinite;
+}
+@keyframes blink {
+  to { visibility: hidden; }
+} */
