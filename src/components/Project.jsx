@@ -4,12 +4,12 @@ import React from "react";
 const project = [
     {
         id: 1,
-        title: "Money Tracker App",
+        title: "Online Bookstore",
         description:
-            "A modern money tracking app built with HTML, CSS, and Vanilla JavaScript using ES6 Function. It features expense CRUD operations, local storage integration, and animated custom alerts for user feedback.",
-        tags: ["HTML5", "CSS3", "JavaScript (ES6+)", "LocalStorage", "MaterializeCSS"],
-        demo: "https://walletmoney-tracker.netlify.app/",
-        code: "https://github.com/Jeevanandam5/Money_Tracker", 
+            "Developed a MERN-stack Online Bookstore with user authentication, favourites, cart, order management, and admin-only book control using JWT and MongoDB.",
+        tags: ["React.js", "React Router", "Tailwind CSS", "Axios", "Node.js", "Express.js","JWT (Authentication)","MongoDB","Mongoose"],
+        demo: "https://bookstore-a5oj.onrender.com/",
+        code: "https://github.com/Jeevanandam5/BookStore", 
 
     },
     {
