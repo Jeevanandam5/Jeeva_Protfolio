@@ -108,7 +108,7 @@ const HeroSection = () => {
                         {/* Buttons */}
                         <div className="flex flex-col sm:flex-row justify-center md:justify-start gap-3 sm:gap-4 pt-4">
                             <a
-                                href="https://drive.google.com/file/d/1QKENzSZlrXUPdfKLobUwL65Ra0mHY735/view?usp=drive_link"
+                                href="https://drive.google.com/file/d/1J086NSlJyoGX34_xrsEqe3BX1QNgD8-E/view?usp=drive_link"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center justify-center gap-3 px-6 py-3 sm:px-5 sm:py-3 bg-orange-400 text-white rounded-lg shadow-md  transform transition-all duration-200 font-medium text-sm sm:text-base">
